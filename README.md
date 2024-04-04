@@ -42,4 +42,4 @@ Data augmentation improved model performance, with Fade techniques showing bette
 
 Data augmentation is effective in enhancing semantic segmentation model performance, with certain techniques and application methods proving more beneficial than others.
 
-### For more information, look a the pdf report in the repo. 
+### For more information about the techniques used, the results, ... , see the pdf report in the repo. 
